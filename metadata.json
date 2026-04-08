@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous Resume Screening & Browser Agent",
+  "description": "A production-grade AI system for semantic resume matching and automated browser-based hiring workflows.",
+  "requestFramePermissions": []
+}
